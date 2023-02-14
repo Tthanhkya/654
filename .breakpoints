@@ -1,0 +1,42 @@
+{
+  "files": {
+    "appstate.json": [
+      {
+        "id": "5fc27f30-73b8-42d1-b5c8-8e3cbfc8a72f",
+        "line": 1,
+        "version": 12,
+        "index": 0
+      }
+    ],
+    "modules/commands/hi.js": [
+      {
+        "id": "69229b1a-c257-4810-b5a4-6aad108d2313",
+        "line": 41,
+        "version": 1,
+        "index": 1627
+      }
+    ],
+    "modules/commands/unban.js": [
+      {
+        "id": "f26799c8-bd4b-419f-afaa-c69608f26031",
+        "line": 11,
+        "version": 1,
+        "index": 344
+      },
+      {
+        "id": "f395d9d1-4b22-4363-8617-df8c26c9ddd8",
+        "line": 13,
+        "version": 1,
+        "index": 378
+      }
+    ],
+    "package.json": [
+      {
+        "id": "da18b9fd-af3a-4c7b-bdaf-f949460542ea",
+        "line": 13,
+        "version": 1,
+        "index": 396
+      }
+    ]
+  }
+}
